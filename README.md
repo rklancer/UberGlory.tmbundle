@@ -12,18 +12,13 @@ Original idea: Christopher R. Murphy : http://blogobaggins.com/2009/03/31/waging
 ## Installation
 
     cd ~/Library/Application\ Support/TextMate/Bundles/
-    git clone git://github.com/glennr/uber-glory-tmbundle.git Uber\ Glory.tmbundle
-    cd Uber\ Glory.tmbundle
-    git submodule update --init
-    osascript -e 'tell app "TextMate" to reload bundles'
-
-## TODO
-
-   add "All your base are belong to us" reference somewhere.
+    git clone git://github.com/rklancer/UberGlory.tmbundle.git
+    osascript -e 'tell app "TextMate" to reload bundles'  # or Bundles -> Bundle Editor ->Reload Bundles
+    
 
 ## License
 
-Copyright (c) 2010 Glenn Roberts, Siyelo
+Copyright (c) 2011, 2010 Richard Klancer, Glenn Roberts, Siyelo
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
