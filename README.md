@@ -18,7 +18,7 @@ Original idea: Christopher R. Murphy : http://blogobaggins.com/2009/03/31/waging
 
 ## License
 
-Copyright (c) 2011, 2010 Richard Klancer, Glenn Roberts, Siyelo
+Copyright (c) 2011, 2010 Glenn Roberts, Siyelo, Richard Klancer
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
